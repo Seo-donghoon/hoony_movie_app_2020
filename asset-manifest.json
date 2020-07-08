@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hoony_movie_app_2020/static/css/main.9cba2411.chunk.css",
+    "main.js": "/hoony_movie_app_2020/static/js/main.4ad58415.chunk.js",
+    "main.js.map": "/hoony_movie_app_2020/static/js/main.4ad58415.chunk.js.map",
+    "runtime-main.js": "/hoony_movie_app_2020/static/js/runtime-main.2a3da89d.js",
+    "runtime-main.js.map": "/hoony_movie_app_2020/static/js/runtime-main.2a3da89d.js.map",
+    "static/js/2.d58c04c7.chunk.js": "/hoony_movie_app_2020/static/js/2.d58c04c7.chunk.js",
+    "static/js/2.d58c04c7.chunk.js.map": "/hoony_movie_app_2020/static/js/2.d58c04c7.chunk.js.map",
+    "index.html": "/hoony_movie_app_2020/index.html",
+    "precache-manifest.209632247435eec3506f6dfa205a5e86.js": "/hoony_movie_app_2020/precache-manifest.209632247435eec3506f6dfa205a5e86.js",
+    "service-worker.js": "/hoony_movie_app_2020/service-worker.js",
+    "static/css/main.9cba2411.chunk.css.map": "/hoony_movie_app_2020/static/css/main.9cba2411.chunk.css.map",
+    "static/js/2.d58c04c7.chunk.js.LICENSE.txt": "/hoony_movie_app_2020/static/js/2.d58c04c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a3da89d.js",
+    "static/js/2.d58c04c7.chunk.js",
+    "static/css/main.9cba2411.chunk.css",
+    "static/js/main.4ad58415.chunk.js"
+  ]
+}
