@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hoony_movie_app_2020/precache-manifest.bb0c1989995de57a9b7970533e375f07.js"
+  "/hoony_movie_app_2020/precache-manifest.a453a25b9f9d30afc3bb168ab954a611.js"
 );
 
 self.addEventListener('message', (event) => {
